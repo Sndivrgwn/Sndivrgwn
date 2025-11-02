@@ -20,8 +20,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sandivg&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandivg&layout=compact&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sndivrgwn&show_icons=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sndivrgwn&layout=compact&theme=transparent" />
 </p>
 
 ---
