@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Sandi</h1>
+<h3 align="center">Web Developer | IT Enthusiast</h3>
 
-<!--
-**Sndivrgwn/Sndivrgwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎮 Learning **web development**
+- 🤖 Exploring **Machine Learning**
+- 🧪 Always improving skills in JS, PHP, and systems development
+- 🎯 Goal: Become Full-stack
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,laravel,php,tailwind,mysql,python,git,linux,vite" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sandivg&show_icons=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandivg&layout=compact&theme=transparent" />
+</p>
+
+---
+
+### 🔥 Highlights
+- 📨 **Realtime Chat App** (React + Laravel + Sanctum + Pusher)
+- 🛒 **Inventory Web App** (Laravel + Tailwind + Blade + JS)
+- 🎯 **Web design for competition**
+- ⚡ Optimized API & SPA workflows
+
+---
+
+### 📂 Featured Projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **Chat App** | Private/group chat, broadcast, realtime edit/delete | React, Tailwind, Pusher, Laravel |
+| **Inventory App** | Dynamic filter, search, export and import data | Laravel, Blade, JS |
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.instagram.com/sandivirgiawan_/">Instagram</a> •
+  <a href="https://taplink.cc/sandi_portofolio">Portfolio</a>
+</p>
+
+---
+
+### ⚡ Fun
+> "Code, Game, Learn — Repeat."
