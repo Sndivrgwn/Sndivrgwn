@@ -47,14 +47,13 @@
 ---
 
 ### 📫 Connect With Me
-<p align="center">
-  <a href="https://www.instagram.com/sandivirgiawan_/">Instagram</a> •
-  <a href="https://taplink.cc/sandi_portofolio">Portfolio</a>
-</p>
 <div align="center">
     <!-- Replace href with your links -->
     <a href="https://www.instagram.com/sandivirgiawan_/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://github.com/Sndivrgwn">
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"/>
     </a>
 </div>
 ---
