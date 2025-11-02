@@ -51,7 +51,12 @@
   <a href="https://www.instagram.com/sandivirgiawan_/">Instagram</a> •
   <a href="https://taplink.cc/sandi_portofolio">Portfolio</a>
 </p>
-
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.instagram.com/sandivirgiawan_/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
 ---
 
 ### ⚡ Fun
