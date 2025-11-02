@@ -26,9 +26,6 @@
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sndivrgwn&show_icons=true&theme=transparent" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sndivrgwn&layout=compact&theme=transparent" />
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Sndivrgwn/Sndivrgwn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-  </div>
 </p>
 
 ---
