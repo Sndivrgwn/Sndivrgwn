@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🎮 Learning **web development**
-- 🤖 Exploring **Machine Learning**
-- 🧪 Always improving skills in JS, PHP, and systems development
-- 🎯 Goal: Become Full-stack
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a Web Developer specializing in Backend. I enjoy code and leran ITs.</p>
+</div>
 ---
 
 ### 🛠️ Tech Stack
