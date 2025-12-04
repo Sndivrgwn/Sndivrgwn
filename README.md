@@ -1,10 +1,8 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Sandi;This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Sandi%20Virgiawan&fontAlign=50&fontSize=40&color=gradient" />
+</p>
 
-<h3 align="center">Web Developer | IT Enthusiast</h3>
+<h3 align="center">Web Developer | IT Enthusiast | Backend & Go Learner</h3>
 
 ---
 
@@ -42,39 +40,29 @@
 ### 🧠 Currently Learning
 - Advanced Go (Goroutines, Channels, Clean Architecture)
 - Laravel Realtime & Broadcasting
-- Godot GDScript & Scene Architecture
 - React + Vite Modern Workflow
 
 ---
 
-### 📊 GitHub Stats
-
+## 🔥 GitHub Streak
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sndivrgwn&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sndivrgwn&layout=compact&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=Sndivrgwn&theme=transparent&hide_border=true" />
 </p>
+
+---
+
+## 🎴 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sndivrgwn&theme=tokyonight" />
+</p>
+
+
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sndivrgwn&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements
-- 🌟 Built a full Realtime Chat App (Pusher + React + Laravel)
-- 🏅 Finished Inventory App with export/import features
-- 🎮 Created multiple 2D games using Godot
-- 🧩 Completed 100+ coding challenges
-- 🚀 Successfully deployed multiple real-world projects
-
----
-
-### 🥇 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sndivrgwn&theme=matrix&margin-w=15" />
 </p>
 
 ---
