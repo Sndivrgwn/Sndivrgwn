@@ -48,6 +48,7 @@
 ### 🔥 Highlights
 - 📨 **Realtime Chat App** (React + Laravel + Sanctum + Pusher)
 - 🛒 **Inventory Web App** (Laravel + Tailwind + Blade + JS)
+- 🎮 **Game Developmeny With Godot** (Godot)
 - 🎯 **Web design for competition**
 - ⚡ Optimized API & SPA workflows
 
@@ -58,6 +59,7 @@
 |--------|-------------|-------|
 | **Chat App** | Private/group chat, broadcast, realtime edit/delete | React, Tailwind, Pusher, Laravel |
 | **Inventory App** | Dynamic filter, search, export and import data | Laravel, Blade, JS |
+| **Game Development** | 2d Games, Various Stage level, New Experience | Godot |
 
 ---
 
