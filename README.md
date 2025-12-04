@@ -9,8 +9,7 @@
 
 ### 🚀 About Me
 - 🎮 Learning **web development**
-- 🤖 Exploring **Machine Learning**
-- 🧪 Always improving skills in JS, PHP, and systems development
+- 🧪 Always improving skills in GO, PHP, and Backend development
 - 🎯 Goal: Become Full-stack
 ---
 
@@ -31,6 +30,7 @@
     <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
     
 </p>
 
