@@ -3,14 +3,17 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Sandi;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
+
 <h3 align="center">Web Developer | IT Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
 - 🎮 Learning **web development**
-- 🧪 Always improving skills in GO, PHP, and Backend development
-- 🎯 Goal: Become Full-stack
+- 🧪 Improving skills in **Go**, **PHP**, and **Backend development**
+- 🎯 Goal: Become **Full-stack Developer**
+- 🔥 Love building realtime apps, APIs, and 2D games
+
 ---
 
 ### 🛠️ Tech Stack
@@ -32,8 +35,15 @@
     <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat" />
-    
 </p>
+
+---
+
+### 🧠 Currently Learning
+- Advanced Go (Goroutines, Channels, Clean Architecture)
+- Laravel Realtime & Broadcasting
+- Godot GDScript & Scene Architecture
+- React + Vite Modern Workflow
 
 ---
 
@@ -46,12 +56,26 @@
 
 ---
 
-### 🔥 Highlights
-- 📨 **Realtime Chat App** (React + Laravel + Sanctum + Pusher)
-- 🛒 **Inventory Web App** (Laravel + Tailwind + Blade + JS)
-- 🎮 **Game Developmeny With Godot** (Godot)
-- 🎯 **Web design for competition**
-- ⚡ Optimized API & SPA workflows
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sndivrgwn&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements
+- 🌟 Built a full Realtime Chat App (Pusher + React + Laravel)
+- 🏅 Finished Inventory App with export/import features
+- 🎮 Created multiple 2D games using Godot
+- 🧩 Completed 100+ coding challenges
+- 🚀 Successfully deployed multiple real-world projects
+
+---
+
+### 🥇 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sndivrgwn&theme=matrix&margin-w=15" />
+</p>
 
 ---
 
@@ -59,22 +83,21 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | **Chat App** | Private/group chat, broadcast, realtime edit/delete | React, Tailwind, Pusher, Laravel |
-| **Inventory App** | Dynamic filter, search, export and import data | Laravel, Blade, JS |
-| **Game Development** | 2d Games, Various Stage level, New Experience | Godot |
+| **Inventory App** | Dynamic filter, search, export & import data | Laravel, Blade, JS |
+| **Game Development** | 2D games, multi-stage level | Godot Engine |
 
 ---
 
 ### 📫 Connect With Me
 <div align="center">
-    <!-- Replace href with your links -->
     <a href="https://www.instagram.com/sandivirgiawan_/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
     </a>
     <a href="https://github.com/Sndivrgwn">
-        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Github"/>
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
     </a>
     <a href="https://taplink.cc/sandi_portofolio">
-        <img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" alt="Taplink"/>
+        <img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" />
     </a>
 </div>
 
